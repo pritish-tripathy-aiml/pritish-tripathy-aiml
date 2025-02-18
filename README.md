@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### I am Python Programming Geek 🐍🐍🐍
 ### Interested in Machine Learning 🤖🤖🤖
+### Next.js and Djang Framework 🌐🌐🌐
 
 # **[Core Python Programming](https://github.com/pritish-tripathy-aiml/Core-Python-Programming)**
 1. [Python Datatypes](https://github.com/pritish-tripathy-aiml/Core-Python-Programming/blob/main/Python_Datatypes.ipynb)
