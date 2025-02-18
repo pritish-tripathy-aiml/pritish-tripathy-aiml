@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I am Python Programming Geek 🐍🐍🐍
-### Machine Learning 🤖🤖🤖
+### Interested in Machine Learning 🤖🤖🤖
 
 # **[Core Python Programming](https://github.com/pritish-tripathy-aiml/Core-Python-Programming)**
 1. [Python Datatypes](https://github.com/pritish-tripathy-aiml/Core-Python-Programming/blob/main/Python_Datatypes.ipynb)
